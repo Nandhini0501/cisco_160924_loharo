@@ -41,7 +41,10 @@ def menu():
                      5-min
                      6-max
                      7-end
-                    your choice:'''))
+                     8-enter your choice:
+                    '''))
+                    
+        
     
 
     if choice ==1:
