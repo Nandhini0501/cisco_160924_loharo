@@ -10,3 +10,4 @@ def is_prime(N):
             return False
         
     return True
+

@@ -4,3 +4,4 @@ print(power.cube(5))
 
 from power import square
 print(square(6))
+
