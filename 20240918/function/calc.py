@@ -58,7 +58,7 @@ def is_prime(N):
             return False
         
     return True
-print(is_prime(5))
+print(is_prime(5))  
 print(is_prime(51))
 print(is_prime(60))
 print(is_prime(61))

@@ -14,3 +14,4 @@ print(patients_list2,type(patients_list2))
 with open('patients_data.json','r') as patients_db:
     patients_list3=json.load(patients_db)
     print(patients_list3,type(patients_list3))
+
